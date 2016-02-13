@@ -1,0 +1,9 @@
+"Mission","LaunchDate","LunarLandingSite","DistanceTraveledOnMoon","MassOfSamples","MissionDuration"
+"Apollo 11","16 Jul 1969","Sea of Tranquility",0.3,20,8.14
+"Apollo 12","14 Nov 1969","Ocean of Storms",1.4,34,10.19
+"Apollo 13","11 Apr 1970","N/A",NA,NA,5.95
+"Apollo 14","31 Jan 1971","Fra Mauro Plain",3.5,42,9
+"Apollo 15","26 Jul 1971","Hadley-Appenines",27.9,77,12.3
+"Apollo 16","16 Apr 1972","Descartes Highlands",27,96,11.08
+"Apollo 17","7 Dec 1972","Taurus-Littrow",30,110,12.58
+"","","",NA,NA,NA

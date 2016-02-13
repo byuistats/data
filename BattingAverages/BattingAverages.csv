@@ -1,0 +1,447 @@
+"Name","Team","League","BattingAvg","AtBats","Hits"
+"Brandon Allen","Arizona Diamondbacks","National League",0.202,104,21
+"Eric Byrnes","Arizona Diamondbacks","National League",0.226,239,54
+"Stephen Drew","Arizona Diamondbacks","National League",0.261,533,139
+"Felipe Lopez","Arizona Diamondbacks","National League",0.301,345,104
+"Miguel Montero","Arizona Diamondbacks","National League",0.294,425,125
+"Augie Ojeda","Arizona Diamondbacks","National League",0.246,264,65
+"Gerardo Parra","Arizona Diamondbacks","National League",0.29,455,132
+"Mark Reynolds","Arizona Diamondbacks","National League",0.26,578,150
+"Ryan Roberts","Arizona Diamondbacks","National League",0.279,305,85
+"Alex Romero","Arizona Diamondbacks","National League",0.248,145,36
+"Chris Snyder","Arizona Diamondbacks","National League",0.2,165,33
+"Chad Tracy","Arizona Diamondbacks","National League",0.237,257,61
+"Justin Upton","Arizona Diamondbacks","National League",0.3,526,158
+"Josh Whitesell","Arizona Diamondbacks","National League",0.194,108,21
+"Chris Young","Arizona Diamondbacks","National League",0.212,433,92
+"Garret Anderson","Atlanta Braves","National League",0.268,496,133
+"Ryan Church","Atlanta Braves","National League",0.26,127,33
+"Matt Diaz","Atlanta Braves","National League",0.313,371,116
+"Yunel Escobar","Atlanta Braves","National League",0.299,528,158
+"Jeff Francoeur","Atlanta Braves","National League",0.25,304,76
+"Omar Infante","Atlanta Braves","National League",0.305,203,62
+"Kelly Johnson","Atlanta Braves","National League",0.224,303,68
+"Chipper Jones","Atlanta Braves","National League",0.264,488,129
+"Casey Kotchman","Atlanta Braves","National League",0.282,298,84
+"Adam LaRoche","Atlanta Braves","National League",0.325,212,69
+"Brian McCann","Atlanta Braves","National League",0.281,488,137
+"Nate McLouth","Atlanta Braves","National League",0.257,339,87
+"Martin Prado","Atlanta Braves","National League",0.307,450,138
+"Dave Ross","Atlanta Braves","National League",0.273,128,35
+"Jordan Schafer","Atlanta Braves","National League",0.204,167,34
+"Robert Andino","Baltimore Orioles","American League",0.222,198,44
+"Aubrey Huff","Baltimore Orioles","American League",0.253,430,109
+"Cesar Izturis","Baltimore Orioles","American League",0.256,387,99
+"Adam Jones","Baltimore Orioles","American League",0.277,473,131
+"Nick Markakis","Baltimore Orioles","American League",0.293,642,188
+"Melvin Mora","Baltimore Orioles","American League",0.26,450,117
+"Felix Pie","Baltimore Orioles","American League",0.266,252,67
+"Nolan Reimold","Baltimore Orioles","American League",0.279,358,100
+"Brian Roberts","Baltimore Orioles","American League",0.283,632,179
+"Luke Scott","Baltimore Orioles","American League",0.258,449,116
+"Matt Wieters","Baltimore Orioles","American League",0.288,354,102
+"Ty Wigginton","Baltimore Orioles","American League",0.273,410,112
+"Gregg Zaun","Baltimore Orioles","American League",0.244,168,41
+"Rocco Baldelli","Boston Red Sox","American League",0.253,150,38
+"Jason Bay","Boston Red Sox","American League",0.267,531,142
+"J.D. Drew","Boston Red Sox","American League",0.279,452,126
+"Jacoby Ellsbury","Boston Red Sox","American League",0.301,624,188
+"Alex Gonzalez","Boston Red Sox","American League",0.284,148,42
+"Nick Green","Boston Red Sox","American League",0.236,276,65
+"Mike Lowell","Boston Red Sox","American League",0.29,445,129
+"Julio Lugo","Boston Red Sox","American League",0.284,109,31
+"Victor Martinez","Boston Red Sox","American League",0.336,211,71
+"David Ortiz","Boston Red Sox","American League",0.238,541,129
+"Dustin Pedroia","Boston Red Sox","American League",0.296,626,185
+"Jason Varitek","Boston Red Sox","American League",0.209,364,76
+"Kevin Youkilis","Boston Red Sox","American League",0.305,491,150
+"Jeff Baker","Chicago Cubs","National League",0.305,203,62
+"Andres Blanco","Chicago Cubs","National League",0.252,123,31
+"Milton Bradley","Chicago Cubs","National League",0.257,393,101
+"Mike Fontenot","Chicago Cubs","National League",0.236,377,89
+"Jake Fox","Chicago Cubs","National League",0.259,216,56
+"Kosuke Fukudome","Chicago Cubs","National League",0.259,499,129
+"Koyie Hill","Chicago Cubs","National League",0.237,253,60
+"Micah Hoffpauir","Chicago Cubs","National League",0.239,234,56
+"Reed Johnson","Chicago Cubs","National League",0.255,165,42
+"Derrek Lee","Chicago Cubs","National League",0.306,532,163
+"Aaron Miles","Chicago Cubs","National League",0.185,157,29
+"Aramis Ramirez","Chicago Cubs","National League",0.317,306,97
+"Bobby Scales","Chicago Cubs","National League",0.242,124,30
+"Alfonso Soriano","Chicago Cubs","National League",0.241,477,115
+"Geovany Soto","Chicago Cubs","National League",0.218,331,72
+"Ryan Theriot","Chicago Cubs","National League",0.284,602,171
+"Brian N. Anderson","Chicago White Sox","American League",0.238,185,44
+"Gordon Beckham","Chicago White Sox","American League",0.27,378,102
+"Jermaine Dye","Chicago White Sox","American League",0.25,503,126
+"Josh Fields","Chicago White Sox","American League",0.222,239,53
+"Chris Getz","Chicago White Sox","American League",0.261,375,98
+"Paul Konerko","Chicago White Sox","American League",0.277,546,151
+"Mark Kotsay","Chicago White Sox","American League",0.292,113,33
+"Jayson Nix","Chicago White Sox","American League",0.224,255,57
+"A.J. Pierzynski","Chicago White Sox","American League",0.3,504,151
+"Scott Podsednik","Chicago White Sox","American League",0.304,537,163
+"Carlos Quentin","Chicago White Sox","American League",0.236,351,83
+"Alexei Ramirez","Chicago White Sox","American League",0.277,542,150
+"Alexis Rios","Chicago White Sox","American League",0.199,146,29
+"Jim Thome","Chicago White Sox","American League",0.249,345,86
+"Dewayne Wise","Chicago White Sox","American League",0.225,142,32
+"Wladimir Balentien","Cincinnati Reds","National League",0.264,110,29
+"Jay Bruce","Cincinnati Reds","National League",0.223,345,77
+"Chris Dickerson","Cincinnati Reds","National League",0.275,255,70
+"Edwin Encarnacion","Cincinnati Reds","National League",0.209,139,29
+"Jonny Gomes","Cincinnati Reds","National League",0.267,281,75
+"Alex Gonzalez","Cincinnati Reds","National League",0.21,243,51
+"Jerry Hairston","Cincinnati Reds","National League",0.254,307,78
+"Ryan Hanigan","Cincinnati Reds","National League",0.263,251,66
+"Ramon Hernandez","Cincinnati Reds","National League",0.258,287,74
+"Paul Janish","Cincinnati Reds","National League",0.211,256,54
+"Darnell McDonald","Cincinnati Reds","National League",0.267,105,28
+"Laynce Nix","Cincinnati Reds","National League",0.239,309,74
+"Brandon Phillips","Cincinnati Reds","National League",0.276,584,161
+"Scott Rolen","Cincinnati Reds","National League",0.27,137,37
+"Adam Rosales","Cincinnati Reds","National League",0.213,230,49
+"Drew Stubbs","Cincinnati Reds","National League",0.267,180,48
+"Willy Taveras","Cincinnati Reds","National League",0.24,404,97
+"Joey Votto","Cincinnati Reds","National League",0.322,469,151
+"Michael Brantley","Cleveland Indians","American League",0.313,112,35
+"Asdrubal Cabrera","Cleveland Indians","American League",0.308,523,161
+"Jamey Carroll","Cleveland Indians","American League",0.276,315,87
+"Shin-Soo Choo","Cleveland Indians","American League",0.3,583,175
+"Trevor Crowe","Cleveland Indians","American League",0.235,183,43
+"Mark DeRosa","Cleveland Indians","American League",0.27,278,75
+"Ben Francisco","Cleveland Indians","American League",0.25,308,77
+"Ryan Garko","Cleveland Indians","American League",0.285,239,68
+"Chris Gimenez","Cleveland Indians","American League",0.144,111,16
+"Travis Hafner","Cleveland Indians","American League",0.272,338,92
+"Matt LaPorta","Cleveland Indians","American League",0.254,181,46
+"Andy Marte","Cleveland Indians","American League",0.232,155,36
+"Victor Martinez","Cleveland Indians","American League",0.284,377,107
+"Jhonny Peralta","Cleveland Indians","American League",0.254,582,148
+"Kelly Shoppach","Cleveland Indians","American League",0.214,271,58
+"Grady Sizemore","Cleveland Indians","American League",0.248,436,108
+"Luis Valbuena","Cleveland Indians","American League",0.25,368,92
+"Garrett Atkins","Colorado Rockies","National League",0.226,354,80
+"Clint Barmes","Colorado Rockies","National League",0.245,550,135
+"Dexter Fowler","Colorado Rockies","National League",0.266,433,115
+"Carlos Gonzalez","Colorado Rockies","National League",0.284,278,79
+"Brad Hawpe","Colorado Rockies","National League",0.285,501,143
+"Todd Helton","Colorado Rockies","National League",0.325,544,177
+"Chris Iannetta","Colorado Rockies","National League",0.228,289,66
+"Seth Smith","Colorado Rockies","National League",0.293,335,98
+"Ryan Spilborghs","Colorado Rockies","National League",0.241,352,85
+"Ian Stewart","Colorado Rockies","National League",0.228,425,97
+"Yorvit Torrealba","Colorado Rockies","National League",0.291,213,62
+"Troy Tulowitzki","Colorado Rockies","National League",0.297,543,161
+"Josh Anderson","Detroit Tigers","American League",0.242,165,40
+"Miguel Cabrera","Detroit Tigers","American League",0.324,611,198
+"Adam Everett","Detroit Tigers","American League",0.238,345,82
+"Curtis Granderson","Detroit Tigers","American League",0.249,631,157
+"Carlos Guillen","Detroit Tigers","American League",0.242,277,67
+"Aubrey Huff","Detroit Tigers","American League",0.189,106,20
+"Brandon Inge","Detroit Tigers","American League",0.23,562,129
+"Gerald Laird","Detroit Tigers","American League",0.225,413,93
+"Magglio Ordonez","Detroit Tigers","American League",0.31,465,144
+"Placido Polanco","Detroit Tigers","American League",0.285,618,176
+"Ryan Raburn","Detroit Tigers","American League",0.291,261,76
+"Ramon Santiago","Detroit Tigers","American League",0.267,262,70
+"Marcus Thames","Detroit Tigers","American League",0.252,258,65
+"Clete Thomas","Detroit Tigers","American League",0.24,275,66
+"John Baker","Florida Marlins","National League",0.271,373,101
+"Emilio Bonifacio","Florida Marlins","National League",0.252,461,116
+"Jorge Cantu","Florida Marlins","National League",0.289,585,169
+"Brett Carroll","Florida Marlins","National League",0.234,141,33
+"Chris Coghlan","Florida Marlins","National League",0.321,504,162
+"Ross Gload","Florida Marlins","National League",0.261,230,60
+"Wes Helms","Florida Marlins","National League",0.271,214,58
+"Jeremy Hermida","Florida Marlins","National League",0.259,429,111
+"Nick Johnson","Florida Marlins","National League",0.279,104,29
+"Cameron Maybin","Florida Marlins","National League",0.25,176,44
+"Ronny Paulino","Florida Marlins","National League",0.272,239,65
+"Hanley Ramirez","Florida Marlins","National League",0.342,576,197
+"Cody Ross","Florida Marlins","National League",0.27,559,151
+"Dan Uggla","Florida Marlins","National League",0.243,564,137
+"Lance Berkman","Houston Astros","National League",0.274,460,126
+"Geoff Blum","Houston Astros","National League",0.247,381,94
+"Michael Bourn","Houston Astros","National League",0.285,606,173
+"Chris Coste","Houston Astros","National League",0.204,103,21
+"Darin Erstad","Houston Astros","National League",0.194,134,26
+"Jeff Keppinger","Houston Astros","National League",0.256,305,78
+"Carlos Lee","Houston Astros","National League",0.3,610,183
+"Kazuo Matsui","Houston Astros","National League",0.25,476,119
+"Jason Michaels","Houston Astros","National League",0.237,135,32
+"Hunter Pence","Houston Astros","National League",0.282,585,165
+"Humberto Quintero","Houston Astros","National League",0.236,157,37
+"Ivan Rodriguez","Houston Astros","National League",0.251,327,82
+"Miguel Tejada","Houston Astros","National League",0.313,635,199
+"Josh Anderson","Kansas City Royals","American League",0.237,118,28
+"Mike Aviles","Kansas City Royals","American League",0.183,120,22
+"Yuniesky Betancourt","Kansas City Royals","American League",0.24,246,59
+"Willie Bloomquist","Kansas City Royals","American League",0.265,434,115
+"John Buck","Kansas City Royals","American League",0.247,186,46
+"Billy Butler","Kansas City Royals","American League",0.301,608,183
+"Alberto Callaspo","Kansas City Royals","American League",0.3,576,173
+"Coco Crisp","Kansas City Royals","American League",0.228,180,41
+"David DeJesus","Kansas City Royals","American League",0.281,558,157
+"Alex Gordon","Kansas City Royals","American League",0.232,164,38
+"Jose Guillen","Kansas City Royals","American League",0.242,281,68
+"Mike Jacobs","Kansas City Royals","American League",0.228,434,99
+"Mitch Maier","Kansas City Royals","American League",0.243,341,83
+"Miguel Olivo","Kansas City Royals","American League",0.249,390,97
+"Brayan Pena","Kansas City Royals","American League",0.273,165,45
+"Mark Teahen","Kansas City Royals","American League",0.271,524,142
+"Bobby Abreu","Los Angeles Angels of Anaheim","American League",0.293,563,165
+"Erick Aybar","Los Angeles Angels of Anaheim","American League",0.312,504,157
+"Chone Figgins","Los Angeles Angels of Anaheim","American League",0.298,615,183
+"Vladimir Guerrero","Los Angeles Angels of Anaheim","American League",0.295,383,113
+"Torii Hunter","Los Angeles Angels of Anaheim","American League",0.299,451,135
+"Maicer Izturis","Los Angeles Angels of Anaheim","American League",0.3,387,116
+"Howie Kendrick","Los Angeles Angels of Anaheim","American League",0.291,374,109
+"Jeff Mathis","Los Angeles Angels of Anaheim","American League",0.211,237,50
+"Gary Matthews","Los Angeles Angels of Anaheim","American League",0.25,316,79
+"Kendry Morales","Los Angeles Angels of Anaheim","American League",0.306,566,173
+"Mike Napoli","Los Angeles Angels of Anaheim","American League",0.272,382,104
+"Robb Quinlan","Los Angeles Angels of Anaheim","American League",0.243,115,28
+"Juan Rivera","Los Angeles Angels of Anaheim","American League",0.287,529,152
+"Casey Blake","Los Angeles Dodgers","National League",0.28,485,136
+"Juan Castro","Los Angeles Dodgers","National League",0.277,112,31
+"Andre Ethier","Los Angeles Dodgers","National League",0.272,596,162
+"Rafael Furcal","Los Angeles Dodgers","National League",0.269,613,165
+"Orlando Hudson","Los Angeles Dodgers","National League",0.283,551,156
+"Matt Kemp","Los Angeles Dodgers","National League",0.297,606,180
+"James Loney","Los Angeles Dodgers","National League",0.281,576,162
+"Mark Loretta","Los Angeles Dodgers","National League",0.232,181,42
+"Russell Martin","Los Angeles Dodgers","National League",0.25,505,126
+"Juan Pierre","Los Angeles Dodgers","National League",0.308,380,117
+"Manny Ramirez","Los Angeles Dodgers","National League",0.29,352,102
+"Ryan Braun","Milwaukee Brewers","National League",0.32,635,203
+"Mike Cameron","Milwaukee Brewers","National League",0.25,544,136
+"Frank Catalanotto","Milwaukee Brewers","National League",0.278,144,40
+"Craig Counsell","Milwaukee Brewers","National League",0.285,404,115
+"Alcides Escobar","Milwaukee Brewers","National League",0.304,125,38
+"Prince Fielder","Milwaukee Brewers","National League",0.299,591,177
+"Mat Gamel","Milwaukee Brewers","National League",0.242,128,31
+"Jody Gerut","Milwaukee Brewers","National League",0.236,161,38
+"Bill Hall","Milwaukee Brewers","National League",0.201,214,43
+"J.J. Hardy","Milwaukee Brewers","National League",0.229,414,95
+"Corey Hart","Milwaukee Brewers","National League",0.26,419,109
+"Jason Kendall","Milwaukee Brewers","National League",0.241,452,109
+"Felipe Lopez","Milwaukee Brewers","National League",0.32,259,83
+"Casey McGehee","Milwaukee Brewers","National League",0.301,355,107
+"Mike Rivera","Milwaukee Brewers","National League",0.228,114,26
+"Rickie Weeks","Milwaukee Brewers","National League",0.272,147,40
+"Brian Buscher","Minnesota Twins","American League",0.235,136,32
+"Orlando Cabrera","Minnesota Twins","American League",0.289,242,70
+"Alexi Casilla","Minnesota Twins","American League",0.202,228,46
+"Joe Crede","Minnesota Twins","American League",0.225,333,75
+"Michael Cuddyer","Minnesota Twins","American League",0.276,588,162
+"Carlos Gomez","Minnesota Twins","American League",0.229,315,72
+"Brendan Harris","Minnesota Twins","American League",0.261,414,108
+"Jason Kubel","Minnesota Twins","American League",0.3,514,154
+"Joe Mauer","Minnesota Twins","American League",0.365,523,191
+"Jose Morales","Minnesota Twins","American League",0.311,119,37
+"Justin Morneau","Minnesota Twins","American League",0.274,508,139
+"Nick Punto","Minnesota Twins","American League",0.228,359,82
+"Mike Redmond","Minnesota Twins","American League",0.237,135,32
+"Denard Span","Minnesota Twins","American League",0.311,578,180
+"Matt Tolbert","Minnesota Twins","American League",0.232,198,46
+"Delmon Young","Minnesota Twins","American League",0.284,395,112
+"Carlos Beltran","New York Mets","National League",0.325,308,100
+"Luis Castillo","New York Mets","National League",0.302,486,147
+"Ryan Church","New York Mets","National League",0.28,232,65
+"Alex Cora","New York Mets","National League",0.251,271,68
+"Jeff Francoeur","New York Mets","National League",0.311,289,90
+"Anderson Hernandez","New York Mets","National League",0.252,135,34
+"Daniel Murphy","New York Mets","National League",0.266,508,135
+"Angel Pagan","New York Mets","National League",0.306,343,105
+"Jeremy Reed","New York Mets","National League",0.242,161,39
+"Jose Reyes","New York Mets","National League",0.279,147,41
+"Omir Santos","New York Mets","National League",0.26,281,73
+"Brian Schneider","New York Mets","National League",0.218,170,37
+"Gary Sheffield","New York Mets","National League",0.276,268,74
+"Cory Sullivan","New York Mets","National League",0.25,136,34
+"Fernando Tatis","New York Mets","National League",0.282,340,96
+"David Wright","New York Mets","National League",0.307,535,164
+"Melky Cabrera","New York Yankees","American League",0.274,485,133
+"Robinson Cano","New York Yankees","American League",0.32,637,204
+"Johnny Damon","New York Yankees","American League",0.282,550,155
+"Brett Gardner","New York Yankees","American League",0.27,248,67
+"Derek Jeter","New York Yankees","American League",0.334,634,212
+"Hideki Matsui","New York Yankees","American League",0.274,456,125
+"Jose Molina","New York Yankees","American League",0.217,138,30
+"Ramiro Pena","New York Yankees","American League",0.287,115,33
+"Jorge Posada","New York Yankees","American League",0.285,383,109
+"Alex Rodriguez","New York Yankees","American League",0.286,444,127
+"Nick Swisher","New York Yankees","American League",0.249,498,124
+"Mark Teixeira","New York Yankees","American League",0.292,609,178
+"Daric Barton","Oakland Athletics","American League",0.269,160,43
+"Travis Buck","Oakland Athletics","American League",0.219,105,23
+"Orlando Cabrera","Oakland Athletics","American League",0.28,414,116
+"Bobby Crosby","Oakland Athletics","American League",0.223,238,53
+"Jack Cust","Oakland Athletics","American League",0.24,513,123
+"Rajai Davis","Oakland Athletics","American League",0.305,390,119
+"Mark Ellis","Oakland Athletics","American League",0.263,377,99
+"Nomar Garciaparra","Oakland Athletics","American League",0.281,160,45
+"Jason Giambi","Oakland Athletics","American League",0.193,269,52
+"Scott Hairston","Oakland Athletics","American League",0.236,233,55
+"Jack Hannahan","Oakland Athletics","American League",0.193,119,23
+"Matt Holliday","Oakland Athletics","American League",0.286,346,99
+"Adam Kennedy","Oakland Athletics","American League",0.289,529,153
+"Cliff Pennington","Oakland Athletics","American League",0.279,208,58
+"Landon Powell","Oakland Athletics","American League",0.229,140,32
+"Kurt Suzuki","Oakland Athletics","American League",0.274,570,156
+"Ryan Sweeney","Oakland Athletics","American League",0.293,484,142
+"Paul Bako","Philadelphia Phillies","National League",0.224,116,26
+"Eric Bruntlett","Philadelphia Phillies","National League",0.171,105,18
+"Chris Coste","Philadelphia Phillies","National League",0.245,102,25
+"Greg Dobbs","Philadelphia Phillies","National League",0.247,154,38
+"Pedro Feliz","Philadelphia Phillies","National League",0.266,580,154
+"Ryan Howard","Philadelphia Phillies","National League",0.279,616,172
+"Raul Ibanez","Philadelphia Phillies","National League",0.272,500,136
+"Jimmy Rollins","Philadelphia Phillies","National League",0.25,672,168
+"Carlos Ruiz","Philadelphia Phillies","National League",0.255,322,82
+"Matt Stairs","Philadelphia Phillies","National League",0.194,103,20
+"Chase Utley","Philadelphia Phillies","National League",0.282,571,161
+"Shane Victorino","Philadelphia Phillies","National League",0.292,620,181
+"Jayson Werth","Philadelphia Phillies","National League",0.268,571,153
+"Ronny Cedeno","Pittsburgh Pirates","National League",0.258,155,40
+"Robinzon Diaz","Pittsburgh Pirates","National League",0.279,129,36
+"Ryan Doumit","Pittsburgh Pirates","National League",0.25,280,70
+"Eric Hinske","Pittsburgh Pirates","National League",0.255,106,27
+"Jason Jaramillo","Pittsburgh Pirates","National League",0.252,206,52
+"Garrett Jones","Pittsburgh Pirates","National League",0.293,314,92
+"Adam LaRoche","Pittsburgh Pirates","National League",0.247,324,80
+"Andy LaRoche","Pittsburgh Pirates","National League",0.258,524,135
+"Andrew McCutchen","Pittsburgh Pirates","National League",0.286,433,124
+"Nate McLouth","Pittsburgh Pirates","National League",0.256,168,43
+"Lastings Milledge","Pittsburgh Pirates","National League",0.291,220,64
+"Nyjer Morgan","Pittsburgh Pirates","National League",0.277,278,77
+"Brandon Moss","Pittsburgh Pirates","National League",0.236,385,91
+"Steven Pearce","Pittsburgh Pirates","National League",0.206,165,34
+"Freddy Sanchez","Pittsburgh Pirates","National League",0.296,355,105
+"Ramon Vazquez","Pittsburgh Pirates","National League",0.23,204,47
+"Jack Wilson","Pittsburgh Pirates","National League",0.267,266,71
+"Delwyn Young","Pittsburgh Pirates","National League",0.266,354,94
+"Eliezer Alfonzo","San Diego Padres","National League",0.175,114,20
+"Henry Blanco","San Diego Padres","National League",0.235,204,48
+"Kyle Blanks","San Diego Padres","National League",0.25,148,37
+"Everth Cabrera","San Diego Padres","National League",0.255,377,96
+"David Eckstein","San Diego Padres","National League",0.26,503,131
+"Jody Gerut","San Diego Padres","National League",0.221,113,25
+"Brian Giles","San Diego Padres","National League",0.191,225,43
+"Adrian Gonzalez","San Diego Padres","National League",0.277,552,153
+"Edgar Gonzalez","San Diego Padres","National League",0.216,153,33
+"Tony Gwynn","San Diego Padres","National League",0.27,393,106
+"Scott Hairston","San Diego Padres","National League",0.299,197,59
+"Chase Headley","San Diego Padres","National League",0.262,543,142
+"Nick Hundley","San Diego Padres","National League",0.238,256,61
+"Kevin Kouzmanoff","San Diego Padres","National League",0.255,529,135
+"Luis Rodriguez","San Diego Padres","National League",0.202,208,42
+"Oscar Salazar","San Diego Padres","National League",0.269,108,29
+"Will Venable","San Diego Padres","National League",0.256,293,75
+"Rich Aurilia","San Francisco Giants","National League",0.213,122,26
+"Emmanuel Burriss","San Francisco Giants","National League",0.238,202,48
+"Ryan Garko","San Francisco Giants","National League",0.235,115,27
+"Travis Ishikawa","San Francisco Giants","National League",0.261,326,85
+"Fred Lewis","San Francisco Giants","National League",0.258,295,76
+"Bengie Molina","San Francisco Giants","National League",0.265,491,130
+"Edgar Renteria","San Francisco Giants","National League",0.25,460,115
+"Aaron Rowand","San Francisco Giants","National League",0.261,499,130
+"Freddy Sanchez","San Francisco Giants","National League",0.284,102,29
+"Pablo Sandoval","San Francisco Giants","National League",0.33,572,189
+"Nate Schierholtz","San Francisco Giants","National League",0.267,285,76
+"Andres Torres","San Francisco Giants","National League",0.27,152,41
+"Juan Uribe","San Francisco Giants","National League",0.289,398,115
+"Eugenio Velez","San Francisco Giants","National League",0.267,285,76
+"Eli Whiteside","San Francisco Giants","National League",0.228,127,29
+"Randy Winn","San Francisco Giants","National League",0.262,538,141
+"Wladimir Balentien","Seattle Mariners","American League",0.213,155,33
+"Adrian Beltre","Seattle Mariners","American League",0.265,449,119
+"Yuniesky Betancourt","Seattle Mariners","American League",0.25,224,56
+"Russell Branyan","Seattle Mariners","American League",0.251,431,108
+"Ronny Cedeno","Seattle Mariners","American League",0.167,186,31
+"Endy Chavez","Seattle Mariners","American League",0.273,161,44
+"Ken Griffey","Seattle Mariners","American League",0.214,387,83
+"Franklin Gutierrez","Seattle Mariners","American League",0.283,565,160
+"Bill Hall","Seattle Mariners","American League",0.2,120,24
+"Jack Hannahan","Seattle Mariners","American League",0.23,148,34
+"Kenji Johjima","Seattle Mariners","American League",0.247,239,59
+"Rob Johnson","Seattle Mariners","American League",0.213,258,55
+"Ryan Langerhans","Seattle Mariners","American League",0.218,101,22
+"Jose Lopez","Seattle Mariners","American League",0.272,613,167
+"Michael Saunders","Seattle Mariners","American League",0.221,122,27
+"Ichiro Suzuki","Seattle Mariners","American League",0.352,639,225
+"Mike Sweeney","Seattle Mariners","American League",0.281,242,68
+"Jack Wilson","Seattle Mariners","American League",0.224,107,24
+"Josh Wilson","Seattle Mariners","American League",0.25,128,32
+"Rick Ankiel","St. Louis Cardinals","National League",0.231,372,86
+"Brian Barden","St. Louis Cardinals","National League",0.233,103,24
+"Mark DeRosa","St. Louis Cardinals","National League",0.228,237,54
+"Chris Duncan","St. Louis Cardinals","National League",0.227,260,59
+"Khalil Greene","St. Louis Cardinals","National League",0.2,170,34
+"Tyler Greene","St. Louis Cardinals","National League",0.222,108,24
+"Matt Holliday","St. Louis Cardinals","National League",0.353,235,83
+"Jason LaRue","St. Louis Cardinals","National League",0.24,104,25
+"Ryan Ludwick","St. Louis Cardinals","National League",0.265,486,129
+"Julio Lugo","St. Louis Cardinals","National League",0.277,148,41
+"Yadier Molina","St. Louis Cardinals","National League",0.293,481,141
+"Albert Pujols","St. Louis Cardinals","National League",0.327,568,186
+"Colby Rasmus","St. Louis Cardinals","National League",0.251,474,119
+"Brendan Ryan","St. Louis Cardinals","National League",0.292,390,114
+"Skip Schumaker","St. Louis Cardinals","National League",0.303,532,161
+"Joe Thurston","St. Louis Cardinals","National League",0.225,267,60
+"Willy Aybar","Tampa Bay Rays","American League",0.253,296,75
+"Jason Bartlett","Tampa Bay Rays","American League",0.32,500,160
+"Pat Burrell","Tampa Bay Rays","American League",0.221,412,91
+"Carl Crawford","Tampa Bay Rays","American League",0.305,606,185
+"Gabe Gross","Tampa Bay Rays","American League",0.227,282,64
+"Akinori Iwamura","Tampa Bay Rays","American League",0.29,231,67
+"Gabe Kapler","Tampa Bay Rays","American League",0.239,205,49
+"Evan Longoria","Tampa Bay Rays","American League",0.281,584,164
+"Dioner Navarro","Tampa Bay Rays","American League",0.218,376,82
+"Carlos Pena","Tampa Bay Rays","American League",0.227,471,107
+"B.J. Upton","Tampa Bay Rays","American League",0.241,560,135
+"Ben Zobrist","Tampa Bay Rays","American League",0.297,501,149
+"Elvis Andrus","Texas Rangers","American League",0.267,480,128
+"Hank Blalock","Texas Rangers","American League",0.234,462,108
+"Julio Borbon","Texas Rangers","American League",0.312,157,49
+"Marlon Byrd","Texas Rangers","American League",0.283,547,155
+"Nelson Cruz","Texas Rangers","American League",0.26,462,120
+"Chris Davis","Texas Rangers","American League",0.238,391,93
+"Josh Hamilton","Texas Rangers","American League",0.268,336,90
+"Andruw Jones","Texas Rangers","American League",0.214,281,60
+"Ian Kinsler","Texas Rangers","American League",0.253,566,143
+"David Murphy","Texas Rangers","American League",0.269,432,116
+"Jarrod Saltalamacchia","Texas Rangers","American League",0.233,283,66
+"Taylor Teagarden","Texas Rangers","American League",0.217,198,43
+"Omar Vizquel","Texas Rangers","American League",0.266,177,47
+"Michael Young","Texas Rangers","American League",0.322,541,174
+"Rod Barajas","Toronto Blue Jays","American League",0.226,429,97
+"Jose Bautista","Toronto Blue Jays","American League",0.235,336,79
+"Raul Chavez","Toronto Blue Jays","American League",0.258,159,41
+"Edwin Encarnacion","Toronto Blue Jays","American League",0.24,154,37
+"Aaron Hill","Toronto Blue Jays","American League",0.286,682,195
+"Adam Lind","Toronto Blue Jays","American League",0.305,587,179
+"John McDonald","Toronto Blue Jays","American League",0.258,151,39
+"Kevin Millar","Toronto Blue Jays","American League",0.223,251,56
+"Lyle Overbay","Toronto Blue Jays","American League",0.265,423,112
+"Alexis Rios","Toronto Blue Jays","American League",0.264,436,115
+"Scott Rolen","Toronto Blue Jays","American League",0.32,338,108
+"Randy Ruiz","Toronto Blue Jays","American League",0.313,115,36
+"Marco Scutaro","Toronto Blue Jays","American League",0.282,574,162
+"Travis Snider","Toronto Blue Jays","American League",0.241,241,58
+"Vernon Wells","Toronto Blue Jays","American League",0.26,630,164
+"Josh Bard","Washington Nationals","National League",0.23,274,63
+"Ron Belliard","Washington Nationals","National League",0.246,187,46
+"Elijah Dukes","Washington Nationals","National League",0.25,364,91
+"Adam Dunn","Washington Nationals","National League",0.267,546,146
+"Alberto Gonzalez","Washington Nationals","National League",0.265,291,77
+"Cristian Guzman","Washington Nationals","National League",0.284,531,151
+"Willie Harris","Washington Nationals","National League",0.235,323,76
+"Anderson Hernandez","Washington Nationals","National League",0.251,231,58
+"Nick Johnson","Washington Nationals","National League",0.295,353,104
+"Austin Kearns","Washington Nationals","National League",0.195,174,34
+"Nyjer Morgan","Washington Nationals","National League",0.351,191,67
+"Wil Nieves","Washington Nationals","National League",0.259,224,58
+"Josh Willingham","Washington Nationals","National League",0.26,427,111
+"Ryan Zimmerman","Washington Nationals","National League",0.292,610,178

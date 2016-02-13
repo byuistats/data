@@ -1,0 +1,57 @@
+"Gender","Disease","Age","Count"
+"Male","Circulatory disease","20-54",14
+"Male","Circulatory disease","55-64",19
+"Male","Circulatory disease","65-74",22
+"Male","Circulatory disease","75+",26
+"Male","Respiratory disease","20-54",14
+"Male","Respiratory disease","55-64",21
+"Male","Respiratory disease","65-74",28
+"Male","Respiratory disease","75+",30
+"Male","Digestive disease","20-54",13
+"Male","Digestive disease","55-64",37
+"Male","Digestive disease","65-74",16
+"Male","Digestive disease","75+",17
+"Male","Neoplasms","20-54",4
+"Male","Neoplasms","55-64",17
+"Male","Neoplasms","65-74",26
+"Male","Neoplasms","75+",17
+"Male","Malnutrition","20-54",7
+"Male","Malnutrition","55-64",20
+"Male","Malnutrition","65-74",11
+"Male","Malnutrition","75+",6
+"Male","Certain infectious and parasitic diseases","20-54",4
+"Male","Certain infectious and parasitic diseases","55-64",11
+"Male","Certain infectious and parasitic diseases","65-74",8
+"Male","Certain infectious and parasitic diseases","75+",4
+"Male","Others","20-54",4
+"Male","Others","55-64",9
+"Male","Others","65-74",9
+"Male","Others","75+",10
+"Female","Circulatory disease","20-54",6
+"Female","Circulatory disease","55-64",8
+"Female","Circulatory disease","65-74",13
+"Female","Circulatory disease","75+",30
+"Female","Respiratory disease","20-54",4
+"Female","Respiratory disease","55-64",6
+"Female","Respiratory disease","65-74",8
+"Female","Respiratory disease","75+",17
+"Female","Digestive disease","20-54",3
+"Female","Digestive disease","55-64",7
+"Female","Digestive disease","65-74",3
+"Female","Digestive disease","75+",16
+"Female","Neoplasms","20-54",5
+"Female","Neoplasms","55-64",2
+"Female","Neoplasms","65-74",5
+"Female","Neoplasms","75+",14
+"Female","Malnutrition","20-54",12
+"Female","Malnutrition","55-64",8
+"Female","Malnutrition","65-74",7
+"Female","Malnutrition","75+",2
+"Female","Certain infectious and parasitic diseases","20-54",1
+"Female","Certain infectious and parasitic diseases","55-64",1
+"Female","Certain infectious and parasitic diseases","65-74",0
+"Female","Certain infectious and parasitic diseases","75+",4
+"Female","Others","20-54",8
+"Female","Others","55-64",6
+"Female","Others","65-74",10
+"Female","Others","75+",18

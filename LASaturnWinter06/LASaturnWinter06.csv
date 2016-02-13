@@ -1,0 +1,223 @@
+"Year","Age","Vehicle","Model","Price","Mileage","Seller","Body","Color","IsSaturnDealer","NonSaturnDealer","City","Distance"
+2004,3,"Saturn Ion","Ion",3900,34000,"Classified Ad","Unknown","Silver",0,0,"Los Angeles",18
+1998,9,"Saturn SL 2","SL",3950,87000,"California Motor Cars","Sedan","Green",0,1,"Los Angeles",20
+1999,8,"Saturn SL 2","SL",5495,79865,"Universal Auto Plaza","Sedan","Silver",0,1,"Los Angeles",12
+2002,5,"Saturn SL 1","SL",4900,55000,"Individual Seller","Sedan","Black",0,1,"Los Angeles",13
+1996,11,"Saturn SL 2","SL",3150,103000,"Classified Ad","Sedan","Green",0,0,"Los Angeles",0
+2000,7,"Saturn SL 1","SL",4450,64000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",16
+2003,4,"Saturn L 300","L",9500,28000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2000,7,"Saturn SL 2","SL",6988,76625,"Carson Honda","Sedan","Green",0,1,"Los Angeles",16
+2004,3,"Saturn VUE","VUE",15199,28935,"Norwalk Toyota","SUV","Black",0,1,"Los Angeles",13
+2002,5,"Saturn SL 1","SL",8499,62489,"Harris Buick Pontiac GMC & Saturn of Whittier","Sedan","Red",1,0,"Los Angeles",14
+2004,3,"Saturn Ion","Ion",10902,35958,"Cerritos Ford Lincoln Mercury","Sedan","Silver",0,1,"Los Angeles",16
+2003,4,"Saturn VUE","VUE",17995,27979,"Carson Honda","SUV","Silver",0,1,"Los Angeles",16
+1995,12,"Saturn SL 2","SL",2590,81000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",16
+2003,4,"Saturn VUE","VUE",15988,35223,"Longo Toyota/Scion","SUV","Silver",0,1,"Los Angeles",12
+2001,6,"Saturn L 300","L",6995,63189,"Mountain Motors","Sedan","Red",0,1,"Los Angeles",28
+1999,8,"Saturn SC 2","SC",5995,101717,"Universal Auto Plaza","Coupe","Green",0,1,"Los Angeles",12
+1995,12,"Saturn SC","SC",950,108060,"Bundy Motors","Coupe","Green",0,1,"Los Angeles",12
+1999,8,"Saturn SL 2","SL",3795,69000,"Classified Ad","Sedan","White",0,0,"Los Angeles",8
+1995,12,"Saturn SC 2","SC",3950,53000,"California Motor Cars","Coupe","Blue",0,1,"Los Angeles",20
+2003,4,"Saturn VUE","VUE",12950,38138,"Reynolds Buick Pontiac GMC","SUV","Black",0,1,"Los Angeles",20
+2004,3,"Saturn VUE","VUE",18495,29606,"Harris Buick Pontiac GMC & Saturn of Whittier","SUV","Silver",1,0,"Los Angeles",14
+1999,8,"Saturn SL 2","SL",950,97000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2003,4,"Saturn VUE","VUE",11977,54475,"Puente Hills Chevrolet","SUV","Black",0,1,"Los Angeles",19
+2003,4,"Saturn VUE","VUE",16998,27963,"Harris Buick Pontiac GMC & Saturn of Whittier","SUV","Silver",1,0,"Los Angeles",14
+2001,6,"Saturn SC 2","SC",6999,66619,"AB Leasing","Coupe","Other",0,1,"Los Angeles",15
+2001,6,"Saturn SL 2","SL",5995,68606,"Universal Auto Plaza","Sedan","Green",0,1,"Los Angeles",12
+2002,5,"Saturn L 300","L",10366,50098,"Toyota/Scion of Glendora","Sedan","Other",0,1,"Los Angeles",24
+1994,13,"Saturn SL 1","SL",1950,130000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",16
+2001,6,"Saturn LW 300","LW",10995,27000,"Classified Ad","Wagon","Other",0,0,"Los Angeles",0
+2001,6,"Saturn SC 2","SC",7995,71921,"Econo Auto Sales","Coupe","Black",0,1,"Los Angeles",20
+2003,4,"Saturn VUE","VUE",16599,27861,"CarMax LAX","SUV","Silver",0,1,"Los Angeles",10
+2002,5,"Saturn SL 2","SL",7850,42000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2000,7,"Saturn SL 2","SL",4988,130167,"Huntington Beach Dodge","Sedan","Green",0,1,"Los Angeles",27
+2003,4,"Saturn VUE","VUE",12488,74660,"DCH Gardena Honda","SUV","Other",0,1,"Los Angeles",12
+2004,3,"Saturn Ion 3","Ion",14975,17690,"Puente Hills Toyota/Scion","Sedan","Red",0,1,"Los Angeles",18
+2001,6,"Saturn SL 2","SL",6845,35000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",14
+2002,5,"Saturn L 300","L",10995,54174,"Scott Hyundai","Sedan","Other",0,1,"Los Angeles",11
+2003,4,"Saturn Ion 2","Ion",11995,39167,"Harris Buick Pontiac GMC & Saturn of Whittier","Sedan","Green",1,0,"Los Angeles",14
+2002,5,"Saturn SL","SL",6970,55752,"Reliance Auto","Sedan","Blue",0,1,"Los Angeles",11
+2001,6,"Saturn SL 2","SL",4400,66000,"Individual Seller","Sedan","White",0,1,"Los Angeles",13
+2000,7,"Saturn SL 1","SL",2950,54000,"Classified Ad","Sedan","Silver",0,0,"Los Angeles",0
+1996,11,"Saturn SC 2","SC",3400,64000,"Individual Seller","Coupe","Other",0,1,"Los Angeles",11
+1994,13,"Saturn SC","SC",1800,187000,"Classified Ad","Coupe","Other",0,0,"Los Angeles",0
+2003,4,"Saturn VUE","VUE",15995,38901,"Scott Robinson Honda","SUV","Red",0,1,"Los Angeles",16
+2002,5,"Saturn VUE","VUE",12995,62417,"Don Steves Chevrolet","SUV","Black",0,1,"Los Angeles",19
+2003,4,"Saturn L","L",9495,39845,"Off Price Car.Com","Sedan","Silver",0,1,"Los Angeles",15
+1999,8,"Saturn SL 2","SL",4500,86000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",8
+1999,8,"Saturn SC 2","SC",4300,89200,"REM Auto 2","Coupe","Other",0,1,"Los Angeles",14
+1996,11,"Saturn SL","SL",2000,25000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",10
+1996,11,"Saturn SC 2","SC",2100,83000,"Classified Ad","Coupe","White",0,0,"Los Angeles",22
+1997,10,"Saturn SL 1","SL",3195,112639,"Bel Air International Auto Sales","Sedan","White",0,1,"Los Angeles",12
+1999,8,"Saturn SL 1","SL",6995,73918,"Surf City Auto Sales","Sedan","Red",0,1,"Los Angeles",29
+2003,4,"Saturn Ion 3","Ion",12990,22610,"Harris Buick Pontiac GMC & Saturn of Whittier","Sedan","White",1,0,"Los Angeles",14
+2004,3,"Saturn Ion","Ion",11995,16748,"Auto Bank.com","Sedan","White",0,1,"Los Angeles",27
+1998,9,"Saturn SL 2","SL",3950,79735,"Stars & Stripes Auto Sales","Sedan","Other",0,1,"Los Angeles",15
+2002,5,"Saturn SL","SL",3500,46000,"Individual Seller","Sedan","Other",0,1,"Los Angeles",6
+2003,4,"Saturn VUE","VUE",13988,46836,"Toyota of Whittier","SUV","Black",0,1,"Los Angeles",15
+2001,6,"Saturn SC","SC",6995,89884,"Mountain Motors","Coupe","Red",0,1,"Los Angeles",28
+1995,12,"Saturn SC 2","SC",2350,172000,"Classified Ad","Coupe","Other",0,0,"Los Angeles",6
+2003,4,"Saturn VUE","VUE",15895,30000,"Galpin Ford","SUV","Silver",0,1,"Los Angeles",18
+2004,3,"Saturn VUE","VUE",12999,76644,"Ritz Leasing/Ritz Kar Warehouse","SUV","Black",0,1,"Los Angeles",3
+2002,5,"Saturn L 300","L",13995,32324,"DCH Gardena Honda","Sedan","Other",0,1,"Los Angeles",12
+2001,6,"Saturn SL 2","SL",10975,62983,"Puente Hills Toyota/Scion","Sedan","Silver",0,1,"Los Angeles",18
+1997,10,"Saturn","Unknown",3500,120000,"Classified Ad","Unknown","Other",0,0,"Los Angeles",20
+2005,2,"Saturn Ion 1","Ion",12495,836,"Harris Buick Pontiac GMC & Saturn of Whittier","Sedan","Silver",1,0,"Los Angeles",14
+2004,3,"Saturn Ion","Ion",10888,42994,"Cerritos Pontiac - Buick - GMC - Hummer","Sedan","Red",0,1,"Los Angeles",15
+2005,2,"Saturn VUE","VUE",16999,11794,"Platinum Auto Haus","SUV","Blue",0,1,"Los Angeles",16
+2001,6,"Saturn LW 300","LW",10995,27000,"Classified Ad","Wagon","Other",0,0,"Los Angeles",0
+1996,11,"Saturn SL","SL",1800,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+1999,8,"Saturn SL","SL",2995,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",11
+1996,11,"Saturn SL","SL",2195,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2003,4,"Saturn L 200","L",14998,29438,"CarMax LAX","Sedan","Other",0,1,"Los Angeles",10
+2002,5,"Saturn VUE","VUE",11500,39000,"Classified Ad","SUV","Red",0,0,"Los Angeles",0
+1994,13,"Saturn SL 2","SL",500,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2000,7,"Saturn SL","SL",5999,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",24
+2002,5,"Saturn SL 1","SL",8995,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2000,7,"Saturn SL 1","SL",4450,64000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",16
+2001,6,"Saturn LW 300","LW",10000,56000,"Individual Seller","Wagon","Silver",0,1,"Los Angeles",21
+2000,7,"Saturn L","L",4300,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+1997,10,"Saturn SL 2","SL",2599,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",14
+2004,3,"Saturn Ion 2","Ion",12990,18250,"Cerritos Acura","Sedan","Black",0,1,"Los Angeles",16
+2000,7,"Saturn L","L",4750,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+1996,11,"Saturn SL 2","SL",3995,112700,"Universal Auto Inc","Sedan","Green",0,1,"Los Angeles",10
+2000,7,"Saturn SL 1","SL",4496,111298,"Dyson Motors","Sedan","White",0,1,"Los Angeles",19
+1998,9,"Saturn SC","SC",4990,NA,"Classified Ad","Coupe","Other",0,0,"Los Angeles",0
+2003,4,"Saturn Ion 2","Ion",11997,25028,"Kia Of Huntington Beach","Sedan","Black",0,1,"Los Angeles",29
+2005,2,"Saturn Ion 1","Ion",6995,7000,"Classified Ad","Unknown","Other",0,0,"Los Angeles",0
+1994,13,"Saturn SC","SC",1800,187000,"Classified Ad","Coupe","Other",0,0,"Los Angeles",0
+1998,9,"Saturn SC 2","SC",5630,83745,"Beverly Hills Ford","Coupe","Other",0,1,"Los Angeles",9
+1998,9,"Saturn","Unknown",4195,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",15
+2002,5,"Saturn SC 2","SC",10933,53522,"Norm Reeves Honda Cerritos","Coupe","Silver",0,1,"Los Angeles",15
+1996,11,"Saturn SC 1","SC",4400,59892,"PM Los Angeles","Coupe","Silver",0,1,"Los Angeles",8
+2001,6,"Saturn SC 2","SC",6000,69000,"Classified Ad","Coupe","Other",0,0,"Los Angeles",22
+1996,11,"Saturn SL 2","SL",2600,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",9
+1998,9,"Saturn SL","SL",4995,82873,"Stars & Stripes Auto Sales","Sedan","Silver",0,1,"Los Angeles",15
+2002,5,"Saturn VUE","VUE",14998,58592,"Bob Wondries Ford","SUV","Silver",0,1,"Los Angeles",6
+2003,4,"Saturn VUE","VUE",17950,35029,"Symes Toyota","SUV","Other",0,1,"Los Angeles",11
+2004,3,"Saturn Ion Red Line","Ion",18995,26000,"Galpin Ford","Coupe","Silver",0,1,"Los Angeles",18
+2003,4,"Saturn VUE","VUE",13997,NA,"Classified Ad","SUV","Other",0,0,"Los Angeles",0
+2000,7,"Saturn L","L",4750,68000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2001,6,"Saturn L 300","L",14995,39039,"Wondries Toyota/Scion","Sedan","Silver",0,1,"Los Angeles",6
+2001,6,"Saturn SC 2","SC",3300,NA,"Classified Ad","Coupe","Red",0,0,"Los Angeles",18
+2002,5,"Saturn SL 2","SL",6500,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",19
+2003,4,"Saturn Ion 2","Ion",8991,39329,"Jaguar of South Bay","Sedan","Other",0,1,"Los Angeles",19
+1998,9,"Saturn SL 1","SL",4799,NA,"PM Los Angeles","Sedan","Red",0,1,"Los Angeles",8
+2002,5,"Saturn SL 2","SL",6500,59000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",19
+2002,5,"Saturn L 300","L",8995,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",22
+2005,2,"Saturn VUE","VUE",16995,35890,"Harris Buick Pontiac GMC & Saturn of Whittier","SUV","Black",1,0,"Los Angeles",14
+2002,5,"Saturn SL 2","SL",11985,58035,"Longo Toyota/Scion","Sedan","White",0,1,"Los Angeles",12
+1998,9,"Saturn SW 1","SW",3700,NA,"Classified Ad","Wagon","Other",0,0,"Los Angeles",0
+1997,10,"Saturn SW 2","SW",4599,NA,"PM Los Angeles","Wagon","Red",0,1,"Los Angeles",8
+1995,12,"Saturn SL","SL",2350,131000,"Classified Ad","Sedan","White",0,0,"Los Angeles",0
+2000,7,"Saturn SC 1","SC",5200,NA,"Classified Ad","Coupe","Silver",0,0,"Los Angeles",17
+2002,5,"Saturn VUE","VUE",13889,57916,"Simpson Buick Pontiac GMC","SUV","Blue",0,1,"Los Angeles",19
+2002,5,"Saturn VUE","VUE",11760,NA,"Classified Ad","SUV","Other",0,0,"Los Angeles",0
+2004,3,"Saturn Ion 3","Ion",6995,35000,"Classified Ad","Unknown","Other",0,0,"Los Angeles",0
+2003,4,"Saturn VUE","VUE",13997,28815,"Kia Of Huntington Beach","SUV","Silver",0,1,"Los Angeles",29
+1994,13,"Saturn SL 2","SL",2450,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",5
+2005,2,"Saturn VUE","VUE",22988,8359,"Ford of Montebello","SUV","Blue",0,1,"Los Angeles",7
+2006,1,"Saturn Ion 3","Ion",15995,251,"Harris Buick Pontiac GMC & Saturn of Whittier","Sedan","Other",1,0,"Los Angeles",14
+1993,14,"Saturn SL 1","SL",4399,70518,"PM Los Angeles","Sedan","Blue",0,1,"Los Angeles",8
+1997,10,"Saturn SL 2","SL",2995,97414,"LA Auto Exchange","Coupe","Green",0,1,"Los Angeles",9
+2001,6,"Saturn L 100","L",7902,93305,"Norm Reeves Honda","Sedan","Blue",0,1,"Los Angeles",29
+2002,5,"Saturn SL 2","SL",8470,57541,"Karplus Warehouse Inc.","Sedan","Other",0,1,"Los Angeles",18
+2002,5,"Saturn SL 2","SL",7800,48500,"Classified Ad","Sedan","Other",0,0,"Los Angeles",12
+2002,5,"Saturn SL","SL",7995,79148,"Magic Auto Center of Arleta","Sedan","Other",0,1,"Los Angeles",16
+2005,2,"Saturn Ion 3","Ion",15588,6694,"Cerritos Pontiac - Buick - GMC - Hummer","Sedan","Black",0,1,"Los Angeles",15
+1995,12,"Saturn SC 2","SC",3500,85000,"Classified Ad","Coupe","Other",0,0,"Los Angeles",20
+2002,5,"Saturn L 100","L",9995,27023,"Harris Buick Pontiac GMC & Saturn of Whittier","Sedan","Blue",1,0,"Los Angeles",14
+2003,4,"Saturn Ion","Ion",6500,58000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+1995,12,"Saturn SC 2","SC",3200,40800,"Classified Ad","Coupe","Blue",0,0,"Los Angeles",20
+1995,12,"Saturn SL 2","SL",1600,NA,"Classified Ad","Sedan","Blue",0,0,"Los Angeles",3
+2004,3,"Saturn Ion","Ion",8300,6800,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+1993,14,"Saturn SL","SL",2990,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2004,3,"Saturn Ion 2","Ion",13995,19686,"Harris Buick Pontiac GMC & Saturn of Whittier","Coupe","Silver",1,0,"Los Angeles",14
+2004,3,"Saturn Ion","Ion",11480,41830,"Karplus Warehouse Inc.","Sedan","Silver",0,1,"Los Angeles",18
+2003,4,"Saturn VUE","VUE",9350,115161,"Stars & Stripes Auto Sales","SUV","Other",0,1,"Los Angeles",15
+1997,10,"Saturn SW 2","SW",1950,158000,"Classified Ad","Wagon","Other",0,0,"Los Angeles",24
+1998,9,"Saturn SL","SL",3995,106439,"Stars & Stripes Auto Sales","Sedan","White",0,1,"Los Angeles",15
+1992,15,"Saturn SL 2","SL",700,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",6
+2002,5,"Saturn SL 1","SL",7995,42319,"Scott Hyundai","Sedan","White",0,1,"Los Angeles",11
+2000,7,"Saturn SL","SL",4350,60000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2002,5,"Saturn VUE","VUE",8980,76392,"Karplus Warehouse Inc.","SUV","Red",0,1,"Los Angeles",18
+2003,4,"Saturn VUE","VUE",14997,38033,"Kia Of Huntington Beach","SUV","Black",0,1,"Los Angeles",29
+1999,8,"Saturn SL 1","SL",2995,124000,"Top Star Auto Sales","Sedan","Silver",0,1,"Los Angeles",12
+1992,15,"Saturn SL 2","SL",2000,97000,"Classified Ad","Sedan","White",0,0,"Los Angeles",14
+1997,10,"Saturn","Unknown",2200,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",0
+2003,4,"Saturn L 200","L",6999,82500,"Beach World Autosales","Sedan","Other",0,1,"Los Angeles",25
+2000,7,"Saturn SL 2","SL",3500,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",13
+1993,14,"Saturn","Unknown",400,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",27
+2000,7,"Saturn SC 1","SC",3660,98500,"Classified Ad","Coupe","Other",0,0,"Los Angeles",5
+2003,4,"Saturn VUE","VUE",15995,48537,"Wondries Chevrolet","SUV","Silver",0,1,"Los Angeles",7
+1991,16,"Saturn","Unknown",1000,NA,"Classified Ad","Unknown","Red",0,0,"Los Angeles",10
+2003,4,"Saturn VUE","VUE",12577,79012,"Orange Empire Auto Center","SUV","Silver",0,1,"Los Angeles",28
+1996,11,"Saturn SL 2","SL",2895,118300,"Classified Ad","Sedan","Green",0,0,"Los Angeles",16
+1999,8,"Saturn SC 2","SC",4500,80000,"Classified Ad","Coupe","White",0,0,"Los Angeles",11
+2004,3,"Saturn Ion","Ion",10980,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",18
+1998,9,"Saturn SL","SL",4000,NA,"Classified Ad","Sedan","Green",0,0,"Los Angeles",0
+2003,4,"Saturn L 300","L",13904,44248,"Norm Reeves Honda","Sedan","Black",0,1,"Los Angeles",29
+2002,5,"Saturn SL 1","SL",4750,100000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",17
+2001,6,"Saturn SL 2","SL",4990,99628,"Reliance Auto","Sedan","White",0,1,"Los Angeles",11
+2003,4,"Saturn VUE","VUE",16995,23522,"Harris Buick Pontiac GMC & Saturn of Whittier","SUV","White",1,0,"Los Angeles",14
+1995,12,"Saturn SC 2","SC",3200,40800,"Classified Ad","Coupe","Blue",0,0,"Los Angeles",20
+2005,2,"Saturn VUE","VUE",16977,16544,"Glendora Hyundai","SUV","Silver",0,1,"Los Angeles",24
+1995,12,"Saturn","Unknown",1300,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",0
+2003,4,"Saturn Ion","Ion",6995,95183,"Mountain Motors","Sedan","Black",0,1,"Los Angeles",28
+2003,4,"Saturn Ion 1","Ion",8975,40937,"Goudy Honda","Sedan","Black",0,1,"Los Angeles",6
+2001,6,"Saturn L 300","L",7995,56661,"Anaheim Chevrolet","Sedan","Blue",0,1,"Los Angeles",23
+1999,8,"Saturn SL 1","SL",1500,130000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+1996,11,"Saturn SC 1","SC",1650,NA,"Classified Ad","Coupe","Other",0,0,"Los Angeles",0
+2003,4,"Saturn VUE","VUE",11995,63876,"Starline Motors","SUV","Black",0,1,"Los Angeles",6
+1994,13,"Saturn SC 2","SC",1995,NA,"Classified Ad","Coupe","Other",0,0,"Los Angeles",13
+2002,5,"Saturn SL 2","SL",9499,48669,"Downtown L.A. Nissan","Sedan","White",0,1,"Los Angeles",2
+2003,4,"Saturn Ion","Ion",6500,58000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2000,7,"Saturn","Unknown",5995,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",0
+2001,6,"Saturn L","L",4500,NA,"PM Los Angeles","Sedan","Silver",0,1,"Los Angeles",8
+2003,4,"Saturn LW 300","LW",12468,23081,"Anaheim Mitsubishi","Wagon","Blue",0,1,"Los Angeles",27
+1993,14,"Saturn SL 1","SL",2300,125000,"Classified Ad","Sedan","White",0,0,"Los Angeles",0
+1994,13,"Saturn","Unknown",1650,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",28
+1997,10,"Saturn SL 2","SL",6991,73146,"Power Toyota Cerritos","Sedan","White",0,1,"Los Angeles",16
+2000,7,"Saturn","Unknown",4995,NA,"Classified Ad","Unknown","White",0,0,"Los Angeles",17
+2001,6,"Saturn SL 2","SL",6999,65450,"Airport Marina Honda","Sedan","Green",0,1,"Los Angeles",10
+1994,13,"Saturn SL 1","SL",3999,NA,"PM Los Angeles","Sedan","Blue",0,1,"Los Angeles",8
+2003,4,"Saturn VUE","VUE",15495,27193,"Off Price Car.Com","SUV","Red",0,1,"Los Angeles",15
+1993,14,"Saturn SL","SL",2990,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2004,3,"Saturn Ion 3","Ion",10888,10338,"Assael BMW","Sedan","Other",0,1,"Los Angeles",16
+2002,5,"Saturn L 200","L",9495,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2001,6,"Saturn SL 2","SL",7499,64400,"Glendale Dodge","Sedan","Silver",0,1,"Los Angeles",6
+1995,12,"Saturn SL","SL",3995,101000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",11
+2001,6,"Saturn SC 1","SC",2500,80000,"Classified Ad","Coupe","Other",0,0,"Los Angeles",0
+2004,3,"Saturn Ion","Ion",10995,40349,"Harris Buick Pontiac GMC & Saturn of Whittier","Sedan","White",1,0,"Los Angeles",14
+2000,7,"Saturn SL 2","SL",6995,79092,"Harris Buick Pontiac GMC & Saturn of Whittier","Sedan","White",1,0,"Los Angeles",14
+2000,7,"Saturn SL 2","SL",2850,52000,"Classified Ad","Sedan","White",0,0,"Los Angeles",0
+1996,11,"Saturn SL","SL",2500,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",8
+2000,7,"Saturn LW 2","LW",8995,112003,"Airport Marina Honda","Wagon","Other",0,1,"Los Angeles",10
+2002,5,"Saturn SL 2","SL",3550,76000,"Classified Ad","Sedan","Blue",0,0,"Los Angeles",0
+2002,5,"Saturn SL 1","SL",3150,NA,"Classified Ad","Sedan","Blue",0,0,"Los Angeles",0
+1999,8,"Saturn SL","SL",1200,139000,"Classified Ad","Sedan","Silver",0,0,"Los Angeles",13
+1998,9,"Saturn SC 2","SC",6784,147975,"Green Light Auto Sales","Coupe","Black",0,1,"Los Angeles",23
+2001,6,"Saturn L 300","L",7995,54000,"Covina Auto Club","Sedan","Black",0,1,"Los Angeles",21
+2002,5,"Saturn VUE","VUE",11760,NA,"Reposses Auto Sales","SUV","Silver",0,1,"Los Angeles",16
+1993,14,"Saturn SL 2","SL",600,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",12
+2003,4,"Saturn Ion 2","Ion",8477,46110,"Boulevard Buick - Pontiac - Gmc","Sedan","Green",0,1,"Los Angeles",17
+2002,5,"Saturn VUE","VUE",15495,6643,"Harris Buick Pontiac GMC & Saturn of Whittier","SUV","Other",1,0,"Los Angeles",14
+2002,5,"Saturn SL 2","SL",5499,88100,"Beach World Autosales","Sedan","Other",0,1,"Los Angeles",25
+2001,6,"Saturn SL","SL",3350,60000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+2001,6,"Saturn L 300","L",8988,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",19
+1997,10,"Saturn SC 2","SC",2000,148000,"Classified Ad","Coupe","Other",0,0,"Los Angeles",22
+1994,13,"Saturn","Unknown",1500,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",22
+2004,3,"Saturn Ion","Ion",10888,10000,"Classified Ad","Unknown","Other",0,0,"Los Angeles",16
+2004,3,"Saturn VUE","VUE",16755,24094,"Livingston Motor Car Company","SUV","Silver",0,1,"Los Angeles",23
+1999,8,"Saturn SC 2","SC",3100,NA,"Classified Ad","Coupe","Other",0,0,"Los Angeles",2
+1996,11,"Saturn SL 2","SL",3800,134000,"Classified Ad","Sedan","Green",0,0,"Los Angeles",0
+2002,5,"Saturn L 300","L",6600,12000,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0
+1998,9,"Saturn SC 2","SC",5079,NA,"PM Los Angeles","Coupe","Other",0,1,"Los Angeles",8
+2001,6,"Saturn SL 1","SL",4995,75323,"Brac Motors","Sedan","Other",0,1,"Los Angeles",16
+1999,8,"Saturn SC 1","SC",5888,79340,"Wondries Nissan","Coupe","Other",0,1,"Los Angeles",8
+1998,9,"Saturn SC","SC",4990,NA,"Classified Ad","Coupe","Other",0,0,"Los Angeles",0
+1998,9,"Saturn SC 1","SC",4600,NA,"PM Los Angeles","Coupe","Red",0,1,"Los Angeles",8
+2003,4,"Saturn L 200","L",12995,48015,"Carson Honda","Sedan","Other",0,1,"Los Angeles",16
+1995,12,"Saturn","Unknown",2499,NA,"Classified Ad","Unknown","Other",0,0,"Los Angeles",10
+1997,10,"Saturn SL","SL",1200,NA,"Classified Ad","Sedan","Other",0,0,"Los Angeles",0

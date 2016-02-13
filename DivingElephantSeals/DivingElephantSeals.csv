@@ -1,0 +1,14 @@
+"Seal.s.Name","Mass..kg.","Length.of.Deployment..Days.at.Sea.","Number.of.Dives","Thermistor.Location","Mean.Dive.Duration..min.","SD.Dive.Duration..min.","Min.Dive.Duration..min.","Max.Dive.Duration..min.","Mean.Max.Depth..m.","SD.Max.Depth..m.","Min.Max.Depth..m.","Max.Max.Depth..m.","Representative.Temperature"
+"Chick",238,3.5,267,"Extradural",8.6,6,1.1,43.7,"50.1",48.8,5,380,36.7
+"Starburst",162,3,33,"Extradural",12.7,5.9,5.1,29.9,"105.8",71.7,41,432,37.19
+"Patty",191,1,81,"Extradural",9.3,4.7,1,28.9,"70.3",80.3,11,416,37.85
+"Bodil",160,21,192,"Hepatic Sinus",14.2,6.5,1.1,29.3,"214.4",157.8,5,699,37.91
+"Roberta",148,15,480,"Hepatic Sinus",12.2,5.7,1,27.5,"156.9",135,6,466,37.25
+"Larry",158,9,218,"Hepatic Sinus",12.2,3.2,5.4,22.2,"83.7",65.2,23,504,38.98
+"Per",163,1.2,160,"Hepatic Sinus",8.9,6.5,1,26.3,"71.2",121,6,508,38.16
+"Sir Richard",226,2,312,"Arterial (femoral)",5.8,2.3,1.1,11.7,"65..8",28.4,6,234,39.32
+"Jerry",180,1.4,132,"Arterial (brachial)",10.5,6.4,1,30.5,"107.1",124.8,5,474,39.7
+"Sammy",211,1,70,"Arterial (brachial)",10.5,2.9,3.2,23.2,"130.5",106.6,7,423,39.71
+"Knut",288,2,242,"Arterial (brachial)",10,5,1,24.4,"84.7",88.5,5,403,35.77
+"Jonesie",261,3.5,401,"Arterial (brachial)",7.6,6.4,1,25.4,"75.2",113.7,5,443,38.47
+"Butler",151,8,621,"Arterial (brachial)",13.4,4.5,1.4,33,"268",146,5,630,39.74
