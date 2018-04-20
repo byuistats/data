@@ -5,7 +5,7 @@
 
 ### libraries #####
 
-library(xlsx)
+library(openxlsx)
 library(readr)
 source("1_scripts/_funcs.R")
 
