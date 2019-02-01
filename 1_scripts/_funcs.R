@@ -21,6 +21,7 @@
 csvExport  = function(csv_file, export_format=NULL, export_folder,details=TRUE,readme=NULL){
   
   library(haven)
+  library(readr)
   library(openxlsx)
   if (is.null(export_format))  stop("Don't you want to export something....")
   if(details==TRUE) print(csv_file)
@@ -29,18 +30,18 @@ csvExport  = function(csv_file, export_format=NULL, export_folder,details=TRUE,r
   file_folder = gsub(".csv","",file_name)
   # read in the file 
   # looks like the standard format is to have a column with comments.  This column is removed. 
-  temp.file = read.csv(csv_file,stringsAsFactors=F)
+  temp.file = read_csv(csv_file)
   colnames(temp.file) <- gsub("\\.", "_", tolower(colnames(temp.file)))
   if(details==TRUE){
     print(head(temp.file))	
   }
   dir.create(file.path(export_folder,file_folder))
   if(!is.null(readme)) cat(readme,file=file.path(export_folder,file_folder,gsub(".csv",".readme",file_name)))
-  if(any(export_format%in%".RDS")==TRUE) saveRDS(temp.file,file=file.path(export_folder,file_folder,gsub(".csv",".RDS",file_name)))
+  if(any(export_format%in%".RDS")==TRUE) write_rds(temp.file,path=file.path(export_folder,file_folder,gsub(".csv",".RDS",file_name)))
   if(any(export_format%in%".xlsx")==TRUE) write.xlsx(temp.file,file=file.path(export_folder,file_folder,gsub(".csv",".xlsx",file_name)), row.names = FALSE)
   if(any(export_format%in%".sav")==TRUE) write_sav(temp.file,path=file.path(export_folder,file_folder,gsub(".csv",".sav",file_name)))
   if(any(export_format%in%".dta")==TRUE) write_dta(temp.file,path=file.path(export_folder,file_folder,gsub(".csv",".dta",file_name)))
-  if(any(export_format%in%".csv")==TRUE) write.csv(temp.file,file=file.path(export_folder,file_folder,file_name),row.names=FALSE)
+  if(any(export_format%in%".csv")==TRUE) write_csv(temp.file,path=file.path(export_folder,file_folder,file_name))
   
   if(details==TRUE) return(temp.file)
   
